@@ -119,3 +119,34 @@ nav ul{
     max-height: 676px;
     vertical-align: middle;
 }
+ #About-Container{
+    padding-top: 131px;
+ }
+
+ #About-Container .About{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
+ }
+
+
+ .heading h1{
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 30px;
+
+ }
+ .heading p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+    line-height: 30px;
+ }
+ #About-Container .About .about-info{
+    display: flex;
+    justify-content: space-around;
+
+ }
