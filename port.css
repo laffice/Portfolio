@@ -145,8 +145,23 @@ nav ul{
     margin-bottom: 30px;
     line-height: 30px;
  }
- #About-Container .About .about-info{
-    display: flex;
-    justify-content: space-around;
+#About-Container .about-info{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
 
- }
+.about-info .info p{
+     
+    color: #757575;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.about-info .info h4{
+
+    font-weight: bold;
+    font-size: 20px;
+   
+}
