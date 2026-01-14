@@ -242,3 +242,93 @@ nav ul{
     font-size: 16px;
 
 }
+
+#resume{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.summary{
+    text-align: center;
+    font-size: bold;
+    font-size: 35px;
+    margin-top: 130px ;
+    margin-bottom: 113px ;
+    
+}
+
+.Education-Experience{
+    display: flex;
+    gap: 25px;
+}
+.Education-Experience .edu{
+    /* max-width: 511px; */
+    /* max-height: 175px; */
+}
+.Education-Experience .edu h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #474747;
+}
+
+.edu h3{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.edu h4{
+    padding-bottom: 20px;
+    color: #757575;
+    font-size: 20px;
+}
+
+.edu p{
+    line-height: 28px;
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.button-aling{
+    text-align: center;
+}
+#resume .btn{
+     background-color: #FD6E0A;
+    color: #FFF8F3;
+    padding: 18px 35px 19px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 50px;
+    
+}
+
+#ending{
+    width: 71%;
+    background-color: #FFF8F3;
+    max-width: 1600px;
+    max-height: 780px;
+    
+}
+
+#ending .Last{
+    display: flex;
+    gap: 117px;
+    margin-left: 230px;
+}
+.right-side p{
+    font-size: 16px;
+    color: #474747;
+    line-height: 28px;
+}
+.right-side .left-side h1{
+    font-size: 35px;
+    font-weight: bold;
+
+}
